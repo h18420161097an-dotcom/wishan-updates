@@ -1,2 +1,13 @@
-# wishan-updates
-wishan Android installation packages and update feed
+# wishan
+
+简约的心愿与订阅记录应用，适用于 Android 7.0 及以上版本。
+
+[下载最新版本](https://github.com/h18420161097an-dotcom/wishan-updates/releases/latest)
+
+首次安装或从旧版本升级：下载发布页中的 APK，打开后确认安装或更新。已有 wishan 时直接覆盖更新，请保留原应用。
+
+从 0.2.0 开始，可以在应用「设置 → 检查更新」下载新版，再按 Android 提示确认安装。首次使用可能需要允许 wishan 安装更新。
+
+记录保存在手机本地。检查更新只访问公开的版本信息和安装包地址，不上传心愿、订阅或付款记录。
+
+本仓库用于分发安装包与版本说明。下载需要网络能够访问 GitHub。
